@@ -1,0 +1,13 @@
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.exe
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.deps.json
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.dll
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\bin\Debug\netcoreapp3.1\DIA LABORAL.pdb
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.dll
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.pdb
+C:\Users\Byron Salguero\Desktop\progra 1\DIA LABORAL\DIA LABORAL\obj\Debug\netcoreapp3.1\DIA LABORAL.genruntimeconfig.cache

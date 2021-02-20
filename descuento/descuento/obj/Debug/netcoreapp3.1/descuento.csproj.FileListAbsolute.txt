@@ -1,0 +1,13 @@
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.exe
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.deps.json
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.dll
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\bin\Debug\netcoreapp3.1\descuento.pdb
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.dll
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.pdb
+C:\Users\Byron Salguero\Desktop\progra 1\descuento\descuento\obj\Debug\netcoreapp3.1\descuento.genruntimeconfig.cache

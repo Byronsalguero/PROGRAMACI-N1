@@ -1,0 +1,12 @@
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.exe
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.deps.json
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.dll
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\bin\Debug\netcoreapp3.1\IMPUESTO.pdb
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.dll
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.pdb
+C:\Users\Byron Salguero\Desktop\IMPUESTO\IMPUESTO\obj\Debug\netcoreapp3.1\IMPUESTO.genruntimeconfig.cache

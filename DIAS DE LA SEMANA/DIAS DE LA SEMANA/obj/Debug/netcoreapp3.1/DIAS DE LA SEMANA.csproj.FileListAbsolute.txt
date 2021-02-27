@@ -1,0 +1,12 @@
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.exe
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.deps.json
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.dll
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\bin\Debug\netcoreapp3.1\DIAS DE LA SEMANA.pdb
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.dll
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.pdb
+C:\Users\Byron Salguero\Desktop\DIAS DE LA SEMANA\DIAS DE LA SEMANA\obj\Debug\netcoreapp3.1\DIAS DE LA SEMANA.genruntimeconfig.cache

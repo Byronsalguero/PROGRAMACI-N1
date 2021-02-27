@@ -1,0 +1,13 @@
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.exe
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.deps.json
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.runtimeconfig.json
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.runtimeconfig.dev.json
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.dll
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\bin\Debug\netcoreapp3.1\numeros primos.pdb
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.AssemblyInfo.cs
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.dll
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.pdb
+C:\Users\Byron Salguero\source\repos\numeros primos\numeros primos\obj\Debug\netcoreapp3.1\numeros primos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.exe
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.deps.json
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.runtimeconfig.json
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.runtimeconfig.dev.json
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.dll
+D:\programas tarea 1\serie de numeros\serie de numeros\bin\Debug\netcoreapp3.1\serie de numeros.pdb
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.csprojAssemblyReference.cache
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.AssemblyInfoInputs.cache
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.AssemblyInfo.cs
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.csproj.CoreCompileInputs.cache
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.dll
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.pdb
+D:\programas tarea 1\serie de numeros\serie de numeros\obj\Debug\netcoreapp3.1\serie de numeros.genruntimeconfig.cache

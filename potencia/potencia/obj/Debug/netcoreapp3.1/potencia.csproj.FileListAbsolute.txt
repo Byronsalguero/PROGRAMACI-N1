@@ -1,0 +1,13 @@
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.exe
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.deps.json
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.dll
+C:\Users\Byron Salguero\Desktop\potencia\potencia\bin\Debug\netcoreapp3.1\potencia.pdb
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.dll
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.pdb
+C:\Users\Byron Salguero\Desktop\potencia\potencia\obj\Debug\netcoreapp3.1\potencia.genruntimeconfig.cache

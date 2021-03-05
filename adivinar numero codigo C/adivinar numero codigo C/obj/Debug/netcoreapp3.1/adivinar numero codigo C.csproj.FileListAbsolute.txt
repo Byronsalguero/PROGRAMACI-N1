@@ -1,0 +1,13 @@
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.exe
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.deps.json
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.runtimeconfig.json
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.runtimeconfig.dev.json
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.dll
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\bin\Debug\netcoreapp3.1\adivinar numero codigo C.pdb
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.dll
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.pdb
+C:\Users\Byron Salguero\Desktop\adivinar numero codigo C\adivinar numero codigo C\obj\Debug\netcoreapp3.1\adivinar numero codigo C.genruntimeconfig.cache

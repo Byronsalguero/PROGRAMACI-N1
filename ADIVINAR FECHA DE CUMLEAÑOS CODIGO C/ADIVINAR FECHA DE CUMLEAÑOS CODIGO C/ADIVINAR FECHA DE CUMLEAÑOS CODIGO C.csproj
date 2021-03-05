@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>ADIVINAR_FECHA_DE_CUMLEAÑOS_CODIGO_C</RootNamespace>
-  </PropertyGroup>
-
-</Project>

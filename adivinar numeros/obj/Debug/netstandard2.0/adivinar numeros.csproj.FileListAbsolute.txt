@@ -1,0 +1,14 @@
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.csprojAssemblyReference.cache
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.AssemblyInfoInputs.cache
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.AssemblyInfo.cs
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.csproj.CoreCompileInputs.cache
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.dll
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\ref\adivinar numeros.dll
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\adivinar numeros.pdb
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\bin\Debug\netstandard2.0\adivinar numeros.deps.json
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\bin\Debug\netstandard2.0\adivinar numeros.dll
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\bin\Debug\netstandard2.0\ref\adivinar numeros.dll
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\bin\Debug\netstandard2.0\adivinar numeros.pdb
+C:\Users\Byron Salguero\Desktop\adivinar numeros\adivinar numeros\adivinar numeros\obj\Debug\netstandard2.0\XamlC.stamp

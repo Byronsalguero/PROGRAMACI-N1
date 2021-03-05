@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="adivinar_numeros.MainPage">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+
+        <Label Text="ADIVINARE EL NUMERO QUE ESTAS PENSANDO"  TextColor="Blue"/>
+        <Entry Placeholder="INGRESA CUALQUIER NUMERO" x:Name="NUMERO1"/>
+
+        <Entry Placeholder="POR_2" x:Name="NUMERO2"
+               HorizontalOptions="Center" TextColor="Black"/>
+        <Entry Placeholder="SUMALE_8" x:Name="SUM8"
+               HorizontalOptions="Center" TextColor="Black"/>
+        <Entry Placeholder="MULTI POR 5 " x:Name="multi5" 
+               HorizontalOptions="Center" TextColor="Black"/>
+        <Entry Placeholder="result" x:Name="RESULTADO"
+               HorizontalOptions="Center" TextColor="Black"/>
+
+        <Button Text="CALCULAR" Clicked="Button_Clicked"
+                HorizontalOptions="Center" TextColor="MediumBlue"/>
+
+        <Label Text="AL RESULTADO QUITELE UNA CIFRA"
+               HorizontalOptions="Center" TextColor="Black"/>
+        
+        <Entry Placeholder="EL RESULTADO SIN UNA CIFRA ES:" x:Name="RESIN" 
+               HorizontalOptions="Center" TextColor="Black"/>
+        <Entry Placeholder="LE RESTA 4:" x:Name="REST" 
+               HorizontalOptions="Center" TextColor="Black"/>
+        <Entry Placeholder="EL RESULTADO ES:" x:Name="RESULTDO"
+               HorizontalOptions="Center" TextColor="Black"/>
+
+        <Button Text="CALCULAR" Clicked="Button_Clicked_1"
+                HorizontalOptions="Center" TextColor="MediumBlue"/>
+
+    </StackLayout>
+
+</ContentPage>
